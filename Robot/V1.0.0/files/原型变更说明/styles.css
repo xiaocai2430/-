@@ -415,8 +415,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:439px;
-  height:106px;
+  width:569px;
+  height:159px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -444,8 +444,8 @@
   position:absolute;
   left:191px;
   top:89px;
-  width:439px;
-  height:106px;
+  width:569px;
+  height:159px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
@@ -459,8 +459,8 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:407px;
-  white-space:nowrap;
+  width:537px;
+  word-wrap:break-word;
 }
 #u12 {
   border-width:0px;
@@ -528,7 +528,7 @@
   left:0px;
   top:0px;
   width:72px;
-  height:106px;
+  height:159px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -557,7 +557,7 @@
   left:55px;
   top:89px;
   width:72px;
-  height:106px;
+  height:159px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
@@ -640,7 +640,7 @@
   left:0px;
   top:0px;
   width:61px;
-  height:106px;
+  height:159px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -669,7 +669,7 @@
   left:993px;
   top:89px;
   width:61px;
-  height:106px;
+  height:159px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
@@ -752,7 +752,7 @@
   left:0px;
   top:0px;
   width:117px;
-  height:106px;
+  height:159px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -781,7 +781,7 @@
   left:832px;
   top:89px;
   width:117px;
-  height:106px;
+  height:159px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
